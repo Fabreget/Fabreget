@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fabreget
 - 👀 I’m interested in football and Gaming 
 - 🌱 I’m currently learning DevOps 
-- 💞️ I’m looking to collaborate on Team Tech
+- 💞️ I’m looking to collaborate on Tech company
 - 📫 How to reach me Linkined
 
 <!---
